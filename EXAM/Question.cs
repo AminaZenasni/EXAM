@@ -6,7 +6,21 @@ using System.Threading.Tasks;
 
 namespace EXAM
 {
-    internal class Question
+       public class Question
     {
+        string typeqst;
+        private int numques;
+        private int point;
+
+
     }
+    public class Vraifaux : Question {
+
+    }
+    public class Qcm : Question
+    {
+
+     }
+
+   }
 }
