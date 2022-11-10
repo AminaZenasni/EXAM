@@ -21,6 +21,17 @@ namespace EXAM
             if rp false{
             point--;
             }  
+             public class Certitude : reponse  {
+                 do ("votre certitude DE 10 A 100"){
+                     if (cer >50){
+                     }
+                         if else (cer ==50){
+                         }
+                     else{
+                     }
+                             
+                 }while (cer ==0);
+    }
         }
     }
 }
