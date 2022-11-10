@@ -8,19 +8,20 @@ namespace EXAM
 {
        public class Question
     {
-        string typeqst;
+        private string typeqst;
         private int numques;
         private int point;
-
+         
 
     }
-    public class Vraifaux : Question {
+    public class Vraifaux : Question  {
 
     }
     public class Qcm : Question
     {
 
-     }
+    }
+    
 
    }
 }
