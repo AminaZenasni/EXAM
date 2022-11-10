@@ -8,5 +8,12 @@ namespace EXAM
 {
     internal class Exam
     {
+        private int nb_question ;
+        private String nom;
+        private int durée_dexam;
+        
+        public Exam(){}
+        
+        
     }
 }
