@@ -22,10 +22,11 @@ namespace EXAM
             point--;
             }  
              public class Certitude : reponse  {
+                 int cer;
                  do ("votre certitude DE 10 A 100"){
-                     if (cer >50){
+                     if (cer){
                      }
-                         if else (cer ==50){
+                         if else (cer){
                          }
                      else{
                      }
