@@ -21,6 +21,10 @@ namespace EXAM
     {
 
     }
+     public class questiondirect : Question
+    {
+
+    }
     
 
    }
