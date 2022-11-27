@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EXAM
 {
-    internal class reponse
+    abstract class reponse
     {
         private String type_rep;
         private int point;
