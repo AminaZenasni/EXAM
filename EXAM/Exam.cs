@@ -11,7 +11,7 @@ namespace EXAM
         private int numExam;
         private String nom;
         private int durée_dexam;
-        private DateTime la-date;
+        private  ladate;
         
         public Exam(){}
         
